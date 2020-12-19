@@ -288,7 +288,7 @@ input, select, textarea {
 				max-width: calc(100% - 3em);
 			}
 
-		}
+		}	
 
 /* Row */
 
@@ -3220,7 +3220,6 @@ input, select, textarea {
 				margin-left: 0;
 				padding-left: 0;
 			}
-
 	}
 
 	
